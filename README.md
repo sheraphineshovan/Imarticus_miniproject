@@ -1,1 +1,1 @@
-# Imarticus_miniproject
+MINI-PROJECT
